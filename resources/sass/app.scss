@@ -1,0 +1,12 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Import Bootstrap & AdminLTE
+@import '~admin-lte/dist/css/adminlte.min.css';
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
